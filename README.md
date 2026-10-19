@@ -92,7 +92,7 @@ For **Cloudflare Turnstile**, **Cloudflare 5s challenge**, **AWS WAF**, and **Da
 
 ## Related
 
-Same pattern for driving an agent framework directly: [langchain-turnstile](https://github.com/CircuitSavage/langchain-turnstile). For driving a browser without an agent on top: [playwright-turnstile](https://github.com/CircuitSavage/playwright-turnstile) · [selenium-turnstile](https://github.com/CircuitSavage/selenium-turnstile) · [puppeteer-extra-plugin-turnstile](https://github.com/CircuitSavage/puppeteer-extra-plugin-turnstile) · [camoufox-turnstile](https://github.com/CircuitSavage/camoufox-turnstile).
+Same pattern for driving an agent framework directly: [langchain-turnstile](https://github.com/CircuitSavage/langchain-turnstile) · [browser-use-turnstile](https://github.com/CircuitSavage/browser-use-turnstile). For driving a browser without an agent on top: [playwright-turnstile](https://github.com/CircuitSavage/playwright-turnstile) · [selenium-turnstile](https://github.com/CircuitSavage/selenium-turnstile) · [puppeteer-extra-plugin-turnstile](https://github.com/CircuitSavage/puppeteer-extra-plugin-turnstile) · [camoufox-turnstile](https://github.com/CircuitSavage/camoufox-turnstile).
 
 ## Notes
 
